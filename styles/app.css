@@ -2,7 +2,7 @@ body {
   padding-top: 200px;
 }
 
-#main {
+#normal, #reverse {
   max-width: 600px;
   height: 100px;
   font-size: 60px;
